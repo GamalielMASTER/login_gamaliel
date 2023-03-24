@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LoginGama</string>
     <string name="strCrear_Cuenta"><u>Crear Cuenta</u></string>
+    <string name="strOlvidar"><u>Olvide Mi Contraseña</u></string>
 </resources>
