@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556569509592",
+    "project_id": "logingama-bb6ad",
+    "storage_bucket": "logingama-bb6ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556569509592:android:85de71cfb8d3f2673661ad",
+        "android_client_info": {
+          "package_name": "com.example.logingama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556569509592-t1pfh6phs4qmiv4j5i8tq2rg5tk1lve9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC63eKakxUXsYrOgGvVblZdT9QAPCoo9yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556569509592-t1pfh6phs4qmiv4j5i8tq2rg5tk1lve9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
